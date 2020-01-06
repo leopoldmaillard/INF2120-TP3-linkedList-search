@@ -20,8 +20,6 @@ public class Main {
 		 * ses valeurs dans une nouvelle liste doublement chaînée.
 		 */
 		List< String > liste = new ArrayList< String >();
-		Stack pile = new Stack();
-		Chainon chainon = new Chainon();
 
 		// Scanner va permettre de rentrer le nom du fichier texte au clavier
 		Scanner sc = new Scanner(System.in);
